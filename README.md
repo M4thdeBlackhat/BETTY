@@ -5,9 +5,9 @@ A password-protected AI-powered betting analysis and prediction platform built w
 ## ✨ Features
 
 ### 🔐 Security
-- **Password Protection**: Secure access with password `Karabo@6542`
+- **Password Protection**: Secure access
 - **Session Management**: Persistent authentication with localStorage
-- **Private Repository**: Keep your betting strategy private
+- **Public Platform**: Accessible to all authenticated users
 
 ### 📊 Dashboard Features
 - **User Tracking**: Displays total number of active users
@@ -37,7 +37,7 @@ A password-protected AI-powered betting analysis and prediction platform built w
 
 ### Access the Platform
 1. Navigate to the website
-2. Enter the password: `Karabo@6542`
+2. Enter your access credentials
 3. Access the full dashboard
 
 ### Features Access
@@ -59,7 +59,7 @@ A password-protected AI-powered betting analysis and prediction platform built w
 
 ### Security
 - **Password-Protected**: Client-side authentication
-- **Private Repository**: GitHub private repository
+- **Public Repository**: GitHub public repository
 
 ## 📱 Responsive Design
 - Mobile-friendly interface
@@ -81,16 +81,11 @@ The platform tracks:
 - User access patterns
 
 ## 🔒 Privacy & Security
-- Private GitHub repository
+- Public GitHub repository
 - Password-protected access
 - No external API calls
 - All data stored locally
 - No third-party tracking
-
-## 📝 Password
-```
-Karabo@6542
-```
 
 ## 🎯 Future Enhancements
 - Real API integration with sports data
@@ -102,7 +97,7 @@ Karabo@6542
 - Mobile app
 
 ## 📄 License
-Private Repository - Karabo@6542
+Public Repository - Betty Platform
 
 ---
 
